@@ -1,0 +1,20 @@
+
+.amiibo{
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+}
+
+.amiibo:hover{
+    transform: scale(1.05);
+}
+
+
+
+.fondo1{
+    background-image: url("../imagenes/bg-04.png");
+    background-color: #FFFEE0;
+}
+
+
+
+
